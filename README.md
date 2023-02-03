@@ -12,8 +12,8 @@
 [RogueMazePrototype Movie](https://github.com/Nariniii/MyPortfolio/blob/main/RogueMazeMovie.mov)  
 [RogueMaze Repository](https://github.com/Nariniii/RogueMaze)
 
-
-## ichikawa20221014jigikai_*.pdf
+## 学会発表
+### ichikawa20221014jigikai_*.pdf
 2022年10月１4日の自動車技術会2022年度秋季大会学術講演会で発表した資料．
 
 テーマは「デジタル空間と深層学習を用いた道路車線検出法の評価」
