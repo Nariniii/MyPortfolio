@@ -12,6 +12,18 @@
 [RogueMazePrototype Movie](https://github.com/Nariniii/MyPortfolio/blob/main/RogueMazeMovie.mov)  
 [RogueMaze Repository](https://github.com/Nariniii/RogueMaze)
 
+### Hit & Blow (Numeron)
+Hit&Blowは数当てゲーム．  
+同じ桁で同じ数字ならHit! 同じ数字だけど桁が違う場合はBlow!  
+HitとBlowの情報を元に相手の数字を先に当てた方が勝ち．  
+今後はオンライン対戦と４桁モードを実装予定．
+
+https://user-images.githubusercontent.com/38883896/216570358-30970011-d217-4ab1-8ac0-127cb710337a.mov
+
+[Hit&Blow Repository](https://github.com/Nariniii/HitAndBlow)
+
+
+
 ## 学会発表
 ### ichikawa20221014jigikai_*.pdf
 2022年10月１4日の自動車技術会2022年度秋季大会学術講演会で発表した資料．
