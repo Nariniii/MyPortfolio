@@ -9,7 +9,8 @@
 <img width="653" alt="RogueMazeImage1" src="https://user-images.githubusercontent.com/38883896/216561614-afd16689-9a1d-427d-b5e2-f7c6f8fe7fe5.png">
 <img width="653" alt="RogueMazeImage2" src="https://user-images.githubusercontent.com/38883896/216561641-4d540254-2975-406e-977d-18da1105dc84.png">
 <img width="651" alt="RogueMazeImage3" src="https://user-images.githubusercontent.com/38883896/216561673-df4300a6-41a1-423a-8b14-0406e08511d1.png">.  
-[RogueMazePrototype Movie](https://github.com/Nariniii/MyPortfolio/blob/main/RogueMazeMovie.mov)
+[RogueMazePrototype Movie](https://github.com/Nariniii/MyPortfolio/blob/main/RogueMazeMovie.mov)  
+[RogueMaze Repository](https://github.com/Nariniii/RogueMaze)
 
 
 ## ichikawa20221014jigikai_*.pdf
