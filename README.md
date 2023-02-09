@@ -1,6 +1,6 @@
 # MyPortfolio
 
-## Game
+## Game (Unity)
 ### RogueMaze 
 インターンで学んだ知識を用いた2DRPGダンジョンゲーム.  
 ポケモン不思議のダンジョンと最近話題のバトルロワイヤル機能を盛り込んだオンラインチーム対戦を作成したかったが、  
@@ -21,6 +21,13 @@ HitとBlowの情報を元に相手の数字を先に当てた方が勝ち．
 https://user-images.githubusercontent.com/38883896/216570358-30970011-d217-4ab1-8ac0-127cb710337a.mov
 
 [Hit&Blow Repository](https://github.com/Nariniii/HitAndBlow)
+## Game (Swift)
+### Hit & Blow (Numeron)
+Hit&Blowは数当てゲーム．  
+同じ桁で同じ数字ならHit! 同じ数字だけど桁が違う場合はBlow!  
+HitとBlowの情報を元に相手の数字を先に当てた方が勝ち．  
+大学の課題でSwiftを用いて開発したもの.  
+[HitAndBlowVersionSwift Repository](https://github.com/Nariniii/HitAndBlowVersionSwift)
 
 
 
